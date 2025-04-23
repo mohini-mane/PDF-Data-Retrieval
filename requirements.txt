@@ -1,0 +1,8 @@
+python-dotenv
+google-generativeai   # For LLM Model
+langchain
+PyPDF2 #Reading PDF
+faiss-cpu  # For VectorDB for less no. of pdf
+streamlit  #For Web UI
+langchain_google_genai
+-e .  #Look for setup.py & install
